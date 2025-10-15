@@ -1,0 +1,82 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs & runtime files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.tmp
+
+# Local config files
+*.env
+.envrc
+
+# VS Code
+.vscode/
+.vscode-test/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# pyinstaller / py2exe artifacts
+*.manifest
+*.spec
+
+# MyPy / Pylint / Pyright
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.pyright/
+
+# Data or experiment files
+*.csv
+*.json
+*.xlsx
+*.db
+*.sqlite3
+
+# IDE specific
+.idea/
+*.iml
+
+# Optional: ignore local test scripts
+test_*.py
+sandbox.py
+
+# === Project specific ===
+# Ignore saved game files or temp AI data
+saved_games/
+temp/

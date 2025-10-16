@@ -8,7 +8,7 @@ This README explains how to run the project, what each file does, how the GUI wo
 
 Below is a reference screenshot of the Pygame GUI (included as an attachment in the project). It shows a 3×3 grid of 3×3 boards, an highlighted "next board", and a drawn X in the top-left cell:
 
-![Super Tic-Tac-Toe GUI preview](assets/screenshot.png)
+![Super Tic-Tac-Toe GUI preview](super_tictactoe/screenshot.png)
 
 ## Quick start
 
